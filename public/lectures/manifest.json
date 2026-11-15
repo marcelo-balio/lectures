@@ -1,6 +1,14 @@
 {
   "lectures": [
     {
+      "title": "Brazil's 2026 Presidential Election",
+      "slug": "brazil-2026-presidential-election",
+      "description": "An interactive, data-based examination of Brazil's 2026 presidential election, polling, turnout, and geographic voting patterns.",
+      "updatedAt": "2026-11-15T17:36:08Z",
+      "nodeCount": 23,
+      "course": "Civics"
+    },
+    {
       "title": "O ciclo da água",
       "slug": "ciclo-da-agua",
       "description": "Aula de 20 minutos sobre evaporação, condensação, precipitação e infiltração.",

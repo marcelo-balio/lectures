@@ -1,0 +1,488 @@
+{
+  "version": "1.0",
+  "slug": "brazil-2026-presidential-election",
+  "title": "Brazil's 2026 Presidential Election",
+  "author": "",
+  "description": "An interactive, data-based examination of Brazil's 2026 presidential election, polling, turnout, and geographic voting patterns.",
+  "course": "Civics",
+  "theme": {
+    "background": "#0b1020",
+    "foreground": "#f1edff",
+    "accent": "#f6c344",
+    "backgroundImage": "preset:topography",
+    "backgroundDepth": 0.2,
+    "backgroundDim": 0.35
+  },
+  "nodes": [
+    {
+      "id": "title",
+      "type": "markdown",
+      "x": 0.0,
+      "y": -1600.0,
+      "width": 650.0,
+      "scale": 3.0,
+      "rotation": 0.0,
+      "content": "# Brazil's 2026 Presidential Election\n## Reading results, polls, and the political map"
+    },
+    {
+      "id": "s1",
+      "type": "markdown",
+      "x": -3600.0,
+      "y": -650.0,
+      "width": 460.0,
+      "scale": 1.5,
+      "rotation": -2.0,
+      "content": "## 1. What happened?\nTwo rounds produced a narrow reversal."
+    },
+    {
+      "id": "s1-context",
+      "type": "markdown",
+      "x": -3600.0,
+      "y": -50.0,
+      "width": 460.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**First round · 4 October**\n\n- Flávio Bolsonaro (PL): **47.03%**\n- Lula (PT): **45.16%**\n- No candidate reached 50% of valid votes.\n\nA runoff between the top two was held on 25 October."
+    },
+    {
+      "id": "s1-result",
+      "type": "markdown",
+      "x": -2500.0,
+      "y": -50.0,
+      "width": 480.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**Runoff · official TSE result**\n\n- **Lula: 51.79%** · 64,256,232 votes\n- **Flávio Bolsonaro: 48.21%** · 59,826,041 votes\n- Margin: about **3.58 percentage points**\n\n[Official TSE announcement](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026)"
+    },
+    {
+      "id": "quiz-result",
+      "type": "quiz",
+      "x": -1400.0,
+      "y": -50.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "quizData": {
+        "question": "What changed between the first and second rounds?",
+        "options": [
+          "Lula moved from second place to winning the runoff",
+          "Flávio won both rounds",
+          "A third candidate entered the runoff",
+          "The runoff ended in a tie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Flávio led the first round, but Lula expanded his vote and won the two-candidate runoff with 51.79%."
+      }
+    },
+    {
+      "id": "s2",
+      "type": "markdown",
+      "x": 0.0,
+      "y": -650.0,
+      "width": 460.0,
+      "scale": 1.5,
+      "rotation": 2.0,
+      "content": "## 2. What did polls measure?\nA trend is not a guarantee."
+    },
+    {
+      "id": "poll-trend",
+      "type": "image",
+      "x": 0.0,
+      "y": 50.0,
+      "width": 760.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "assets/poll-trend.svg"
+    },
+    {
+      "id": "poll-reading",
+      "type": "markdown",
+      "x": 1000.0,
+      "y": 50.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "The Atlas/Bloomberg series showed a close, moving contest. Different dates captured different electorates and campaign moments.\n\nAlways ask:\n- Who was sampled?\n- When was fieldwork conducted?\n- Are percentages total or valid votes?\n- What is the margin of error?"
+    },
+    {
+      "id": "quiz-poll",
+      "type": "quiz",
+      "x": 2000.0,
+      "y": 50.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "quizData": {
+        "question": "Which is the best interpretation of a poll showing 51% to 49%?",
+        "options": [
+          "The 51% candidate will certainly win",
+          "It is a snapshot of sampled opinion with uncertainty",
+          "Exactly 51% of all voters have permanently decided",
+          "Turnout can no longer affect the result"
+        ],
+        "correctIndex": 1,
+        "explanation": "A poll estimates opinion at a particular time from a sample. Sampling uncertainty, turnout, and later decisions can change the final vote."
+      }
+    },
+    {
+      "id": "s3",
+      "type": "markdown",
+      "x": 3200.0,
+      "y": -650.0,
+      "width": 460.0,
+      "scale": 1.5,
+      "rotation": -2.0,
+      "content": "## 3. Poll versus count\nCompare like with like."
+    },
+    {
+      "id": "poll-result",
+      "type": "image",
+      "x": 3200.0,
+      "y": 50.0,
+      "width": 760.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "assets/poll-vs-result.svg"
+    },
+    {
+      "id": "quiz-bases",
+      "type": "quiz",
+      "x": 4200.0,
+      "y": 50.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "quizData": {
+        "question": "Why were the final Atlas numbers normalized before comparing them with the TSE result?",
+        "options": [
+          "To remove one candidate",
+          "Because the poll included other/unsure responses while TSE valid votes did not",
+          "To increase the sample size",
+          "Because the TSE counted only one state"
+        ],
+        "correctIndex": 1,
+        "explanation": "The original poll used all responses, including other/unsure. The official percentages use valid votes, so the bases differ unless normalized."
+      }
+    },
+    {
+      "id": "s4",
+      "type": "markdown",
+      "x": -3000.0,
+      "y": 1250.0,
+      "width": 460.0,
+      "scale": 1.5,
+      "rotation": 2.0,
+      "content": "## 4. How did the states vote?\nNational victory, divided geography."
+    },
+    {
+      "id": "state-map",
+      "type": "image",
+      "x": -3000.0,
+      "y": 2050.0,
+      "width": 680.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "assets/state-map.svg"
+    },
+    {
+      "id": "map-reading",
+      "type": "markdown",
+      "x": -2000.0,
+      "y": 2050.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "Lula won all **nine Northeastern states**, plus AP, AM, PA, and MG. Flávio won the South, Center-West, most of the Southeast, and the remaining Northern states.\n\nA state-winner map hides population differences: winning São Paulo and winning Roraima count as one colored tile each, but involve very different numbers of voters."
+    },
+    {
+      "id": "quiz-map",
+      "type": "quiz",
+      "x": -1000.0,
+      "y": 2050.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "quizData": {
+        "question": "Which state switched winner between the first round and the runoff?",
+        "options": [
+          "Bahia",
+          "São Paulo",
+          "Minas Gerais",
+          "Santa Catarina"
+        ],
+        "correctIndex": 2,
+        "explanation": "Minas Gerais switched to Lula in the runoff, where he won approximately 50.4% of valid votes."
+      }
+    },
+    {
+      "id": "s5",
+      "type": "markdown",
+      "x": 400.0,
+      "y": 1250.0,
+      "width": 460.0,
+      "scale": 1.5,
+      "rotation": -2.0,
+      "content": "## 5. Participation mattered\nWho votes can change the electorate."
+    },
+    {
+      "id": "turnout",
+      "type": "markdown",
+      "x": 400.0,
+      "y": 1900.0,
+      "width": 480.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "The TSE reported:\n\n- More than **158 million** eligible voters\n- **128.2 million** participated in the runoff\n- Abstention: about **19.2%**\n- First-round abstention: **21.08%**\n\nTurnout increased between rounds. Results reflect ballots actually cast—not merely stated intention."
+    },
+    {
+      "id": "quiz-turnout",
+      "type": "quiz",
+      "x": 1400.0,
+      "y": 1900.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "quizData": {
+        "question": "What happened to abstention in the runoff?",
+        "options": [
+          "It rose to more than 30%",
+          "It stayed exactly the same",
+          "It fell from 21.08% to about 19.2%",
+          "The TSE did not report it"
+        ],
+        "correctIndex": 2,
+        "explanation": "The TSE reported lower abstention in the second round, meaning a larger share of eligible voters participated."
+      }
+    },
+    {
+      "id": "s6",
+      "type": "markdown",
+      "x": 2800.0,
+      "y": 1250.0,
+      "width": 460.0,
+      "scale": 1.5,
+      "rotation": 2.0,
+      "content": "## 6. From data to interpretation\nEvidence first; explanation second."
+    },
+    {
+      "id": "literacy",
+      "type": "markdown",
+      "x": 2800.0,
+      "y": 1900.0,
+      "width": 480.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "Responsible election analysis separates:\n\n1. **Official count:** what happened\n2. **Polls:** estimated opinion before voting\n3. **Maps:** where candidates led\n4. **Explanations:** hypotheses requiring more evidence\n\nAvoid inferring individual motives from aggregate state results. That mistake is called the **ecological fallacy**."
+    },
+    {
+      "id": "quiz-literacy",
+      "type": "quiz",
+      "x": 3800.0,
+      "y": 1900.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "quizData": {
+        "question": "Which claim goes beyond what the state map alone can prove?",
+        "options": [
+          "Lula won Bahia",
+          "Flávio won São Paulo",
+          "Every rural voter supported Flávio",
+          "Lula won 13 states"
+        ],
+        "correctIndex": 2,
+        "explanation": "A state-level map cannot reveal how every rural or urban individual voted. That would infer individual behavior from aggregate data."
+      }
+    },
+    {
+      "id": "summary",
+      "type": "markdown",
+      "x": 5200.0,
+      "y": 1800.0,
+      "width": 560.0,
+      "scale": 1.5,
+      "rotation": 0.0,
+      "content": "## What should we remember?\n- Lula reversed the first-round order and won **51.79% to 48.21%**.\n- Polls captured a close and changing race, not a predetermined outcome.\n- The state map reveals regional patterns but hides population and local variation.\n- Turnout and late decisions matter.\n- Good civic analysis distinguishes results, measurements, and explanations."
+    }
+  ],
+  "cameraPath": [
+    {
+      "id": "f1",
+      "targetNodeId": "title",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f2",
+      "targetNodeId": "s1",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f3",
+      "targetNodeId": "s1-context",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f4",
+      "targetNodeId": "s1-result",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f5",
+      "targetNodeId": "quiz-result",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f6",
+      "targetNodeId": "s2",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f7",
+      "targetNodeId": "poll-trend",
+      "paddingRatio": 1.08,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f8",
+      "targetNodeId": "poll-reading",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f9",
+      "targetNodeId": "quiz-poll",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f10",
+      "targetNodeId": "s3",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f11",
+      "targetNodeId": "poll-result",
+      "paddingRatio": 1.08,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f12",
+      "targetNodeId": "quiz-bases",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f13",
+      "targetNodeId": "s4",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f14",
+      "targetNodeId": "state-map",
+      "paddingRatio": 1.05,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f15",
+      "targetNodeId": "map-reading",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f16",
+      "targetNodeId": "quiz-map",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f17",
+      "targetNodeId": "s5",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f18",
+      "targetNodeId": "turnout",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f19",
+      "targetNodeId": "quiz-turnout",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f20",
+      "targetNodeId": "s6",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f21",
+      "targetNodeId": "literacy",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f22",
+      "targetNodeId": "quiz-literacy",
+      "paddingRatio": 1.15,
+      "transitionMs": 700,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f23",
+      "targetNodeId": "summary",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    }
+  ]
+}

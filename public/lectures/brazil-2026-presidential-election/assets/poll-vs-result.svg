@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620">
+  <rect width="1000" height="620" rx="24" fill="#101827"/>
+  <text x="54" y="52" fill="#f8fafc" font-family="system-ui" font-size="27" font-weight="700">Last Atlas poll vs. official result</text>
+  <text x="54" y="82" fill="#94a3b8" font-family="system-ui" font-size="15">Two-candidate shares, normalized for comparison</text>
+  <g fill="#cbd5e1" font-family="system-ui" font-size="17"><text x="80" y="177">Atlas, 24 Oct</text><text x="80" y="347">TSE result, 25 Oct</text></g>
+  <rect x="250" y="130" width="355" height="76" rx="10" fill="#ef4444"/><rect x="605" y="130" width="365" height="76" rx="10" fill="#f6c344"/>
+  <rect x="250" y="300" width="373" height="76" rx="10" fill="#ef4444"/><rect x="623" y="300" width="347" height="76" rx="10" fill="#f6c344"/>
+  <g fill="white" font-family="system-ui" font-size="23" font-weight="700" text-anchor="middle"><text x="428" y="178">Lula 49.2%</text><text x="788" y="178">Flávio 50.8%</text><text x="437" y="348">Lula 51.79%</text><text x="797" y="348">Flávio 48.21%</text></g>
+  <path d="M605 230v38" stroke="#f8fafc" stroke-width="3" stroke-dasharray="5 5"/><text x="605" y="285" fill="#cbd5e1" font-family="system-ui" font-size="14" text-anchor="middle">50% line</text>
+  <rect x="54" y="430" width="892" height="120" rx="16" fill="#1e293b"/>
+  <text x="78" y="465" fill="#f8fafc" font-family="system-ui" font-size="18" font-weight="700">Interpret carefully</text>
+  <text x="78" y="497" fill="#cbd5e1" font-family="system-ui" font-size="15">The poll measured a sample before voting; the result counted ballots. A small lead in a poll</text>
+  <text x="78" y="521" fill="#cbd5e1" font-family="system-ui" font-size="15">does not guarantee the winner—sampling error, turnout and late decisions all matter.</text>
+  <text x="54" y="590" fill="#64748b" font-family="system-ui" font-size="12">Sources: AtlasIntel/Bloomberg report (18–23 Oct); TSE final count (25 Oct 2026).</text>
+</svg>
