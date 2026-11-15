@@ -1,0 +1,104 @@
+{
+  "version": "1.0",
+  "slug": "untitled-lecture",
+  "title": "Untitled lecture",
+  "author": "",
+  "description": "",
+  "theme": {
+    "background": "#0f1117",
+    "foreground": "#ffffff",
+    "accent": "#2461f0"
+  },
+  "nodes": [
+    {
+      "id": "title",
+      "type": "markdown",
+      "x": 4679.75,
+      "y": -2238.37,
+      "width": 520.0,
+      "scale": 4.47,
+      "rotation": 0.0,
+      "content": "# Now 1\n## first frame"
+    },
+    {
+      "id": "dadbb6b2",
+      "type": "markdown",
+      "x": 952.79,
+      "y": -2082.98,
+      "width": 520.0,
+      "scale": 4.47,
+      "rotation": 0.0,
+      "content": "# Now 2\n## second frame"
+    },
+    {
+      "id": "85b51ea1",
+      "type": "markdown",
+      "x": 6155.0,
+      "y": 1833.0,
+      "width": 520.0,
+      "scale": 4.47,
+      "rotation": 0.0,
+      "content": "# Now 3\n## third frame"
+    },
+    {
+      "id": "59f6cb37",
+      "type": "markdown",
+      "x": 2049.0,
+      "y": 1833.0,
+      "width": 520.0,
+      "scale": 4.47,
+      "rotation": 0.0,
+      "content": "# Now 4\n## fourth frame"
+    },
+    {
+      "id": "0d4d0e36",
+      "type": "katex",
+      "x": -2384.63,
+      "y": 90.22,
+      "width": 380.0,
+      "scale": 5.21,
+      "rotation": 0.0,
+      "content": "\\int_0^1 x^2\\,dx = \\tfrac{1}{3}"
+    }
+  ],
+  "cameraPath": [
+    {
+      "id": "k-title",
+      "targetNodeId": "title",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "d34758e4",
+      "targetNodeId": "dadbb6b2",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "0a627a5f",
+      "targetNodeId": "85b51ea1",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out",
+      "transition": "zoom"
+    },
+    {
+      "id": "bec7a71c",
+      "targetNodeId": "59f6cb37",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "9452d3e2",
+      "targetNodeId": "0d4d0e36",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    }
+  ]
+}
