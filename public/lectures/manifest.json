@@ -1,3 +1,12 @@
 {
-  "lectures": []
+  "lectures": [
+    {
+      "title": "O ciclo da água",
+      "slug": "ciclo-da-agua",
+      "description": "Aula de 20 minutos sobre evaporação, condensação, precipitação e infiltração.",
+      "updatedAt": "2026-11-15T14:53:06Z",
+      "nodeCount": 18,
+      "course": "6º Ano B"
+    }
+  ]
 }
