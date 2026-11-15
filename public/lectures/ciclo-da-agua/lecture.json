@@ -1,0 +1,347 @@
+{
+  "version": "1.0",
+  "slug": "ciclo-da-agua",
+  "title": "O ciclo da água",
+  "author": "",
+  "description": "Aula de 20 minutos sobre evaporação, condensação, precipitação e infiltração.",
+  "course": "6º Ano B",
+  "theme": {
+    "background": "#0e3a5c",
+    "foreground": "#ffffff",
+    "accent": "#ffd27a",
+    "backgroundImage": "preset:ocean",
+    "backgroundDim": 0.3
+  },
+  "nodes": [
+    {
+      "id": "title",
+      "type": "markdown",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 600.0,
+      "scale": 3.0,
+      "rotation": 0.0,
+      "content": "# O ciclo da água\n**6º Ano B** · a água nunca para de se mover"
+    },
+    {
+      "id": "s1",
+      "type": "markdown",
+      "x": 0.0,
+      "y": -950.0,
+      "width": 440.0,
+      "scale": 1.6,
+      "rotation": 0.0,
+      "content": "## 1. O Sol começa tudo\nA água está sempre em movimento."
+    },
+    {
+      "id": "s1-c",
+      "type": "markdown",
+      "x": 0.0,
+      "y": -450.0,
+      "width": 460.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "- O Sol aquece oceanos, rios e lagos\n- A água líquida vira **vapor**: é a **evaporação**\n- Plantas também liberam vapor: é a **transpiração**"
+    },
+    {
+      "id": "s1-d",
+      "type": "markdown",
+      "x": 0.0,
+      "y": -220.0,
+      "width": 400.0,
+      "scale": 0.3,
+      "rotation": 0.0,
+      "content": "**Curiosidade:** a maior parte da evaporação vem dos oceanos."
+    },
+    {
+      "id": "s2",
+      "type": "markdown",
+      "x": 1427.0,
+      "y": -294.0,
+      "width": 440.0,
+      "scale": 1.6,
+      "rotation": 0.0,
+      "content": "## 2. O vapor sobe\nE encontra ar mais frio."
+    },
+    {
+      "id": "s2-c",
+      "type": "markdown",
+      "x": 1167.0,
+      "y": 206.0,
+      "width": 460.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "- Ar quente sobe e esfria\n- O vapor vira gotinhas minúsculas: é a **condensação**\n- Essas gotas formam as **nuvens**"
+    },
+    {
+      "id": "s2-d",
+      "type": "markdown",
+      "x": 1167.0,
+      "y": 436.0,
+      "width": 400.0,
+      "scale": 0.3,
+      "rotation": 0.0,
+      "content": "**Curiosidade:** gotas de nuvem são tão leves que flutuam no ar."
+    },
+    {
+      "id": "s2-quiz",
+      "type": "quiz",
+      "x": 1687.0,
+      "y": 206.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "quizData": {
+        "question": "Como se chama a passagem de vapor de água para líquido?",
+        "options": [
+          "Evaporação",
+          "Condensação",
+          "Infiltração"
+        ],
+        "correctIndex": 1,
+        "explanation": "Na condensação, o vapor esfria e forma gotinhas, que formam as nuvens."
+      }
+    },
+    {
+      "id": "s3",
+      "type": "markdown",
+      "x": 882.0,
+      "y": 769.0,
+      "width": 440.0,
+      "scale": 1.6,
+      "rotation": 0.0,
+      "content": "## 3. A chuva cai\nQuando as gotas ficam pesadas."
+    },
+    {
+      "id": "s3-c",
+      "type": "markdown",
+      "x": 882.0,
+      "y": 1269.0,
+      "width": 460.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "- Gotas se juntam e ficam pesadas\n- Caem como **precipitação**: chuva, granizo ou neve\n- O tipo depende da temperatura do ar"
+    },
+    {
+      "id": "s3-d",
+      "type": "markdown",
+      "x": 882.0,
+      "y": 1499.0,
+      "width": 400.0,
+      "scale": 0.3,
+      "rotation": 0.0,
+      "content": "**Curiosidade:** em lugares muito frios, a precipitação cai como neve."
+    },
+    {
+      "id": "s4",
+      "type": "markdown",
+      "x": -882.0,
+      "y": 769.0,
+      "width": 440.0,
+      "scale": 1.6,
+      "rotation": 0.0,
+      "content": "## 4. O solo recebe a água\nParte infiltra, parte escorre."
+    },
+    {
+      "id": "s4-c",
+      "type": "markdown",
+      "x": -882.0,
+      "y": 1269.0,
+      "width": 460.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "- Parte **infiltra** e abastece o **lençol freático**\n- Parte **escorre** pela superfície até rios e mares\n- Raízes absorvem água do solo"
+    },
+    {
+      "id": "s4-d",
+      "type": "markdown",
+      "x": -882.0,
+      "y": 1499.0,
+      "width": 400.0,
+      "scale": 0.3,
+      "rotation": 0.0,
+      "content": "**Curiosidade:** o lençol freático é uma reserva de água subterrânea."
+    },
+    {
+      "id": "s5",
+      "type": "markdown",
+      "x": -1427.0,
+      "y": -294.0,
+      "width": 440.0,
+      "scale": 1.6,
+      "rotation": 0.0,
+      "content": "## 5. Tudo recomeça\nO ciclo não tem começo nem fim."
+    },
+    {
+      "id": "s5-c",
+      "type": "markdown",
+      "x": -1687.0,
+      "y": 206.0,
+      "width": 460.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "- Rios e mares devolvem água ao ar\n- Solo úmido e plantas também liberam vapor\n- A mesma água circula há milhões de anos"
+    },
+    {
+      "id": "s5-quiz",
+      "type": "quiz",
+      "x": -1167.0,
+      "y": 206.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "quizData": {
+        "question": "Qual etapa leva água da superfície de volta para o ar?",
+        "options": [
+          "Precipitação",
+          "Evaporação",
+          "Infiltração"
+        ],
+        "correctIndex": 1,
+        "explanation": "Com o calor do Sol, a água líquida vira vapor e sobe: isso é a evaporação."
+      }
+    },
+    {
+      "id": "summary",
+      "type": "markdown",
+      "x": 0.0,
+      "y": 1500.0,
+      "width": 400.0,
+      "scale": 1.4,
+      "rotation": 0.0,
+      "content": "## Resumo\n1. Evaporação e transpiração\n2. Condensação: formação das nuvens\n3. Precipitação: a chuva\n4. Infiltração e escoamento\n5. E o ciclo recomeça"
+    }
+  ],
+  "cameraPath": [
+    {
+      "id": "f1",
+      "targetNodeId": "title",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f2",
+      "targetNodeId": "s1",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f3",
+      "targetNodeId": "s1-c",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f4",
+      "targetNodeId": "s1-d",
+      "paddingRatio": 1.3,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f5",
+      "targetNodeId": "s2",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f6",
+      "targetNodeId": "s2-c",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f7",
+      "targetNodeId": "s2-d",
+      "paddingRatio": 1.3,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f8",
+      "targetNodeId": "s2-quiz",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f9",
+      "targetNodeId": "s3",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f10",
+      "targetNodeId": "s3-c",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f11",
+      "targetNodeId": "s3-d",
+      "paddingRatio": 1.3,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f12",
+      "targetNodeId": "s4",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f13",
+      "targetNodeId": "s4-c",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f14",
+      "targetNodeId": "s4-d",
+      "paddingRatio": 1.3,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f15",
+      "targetNodeId": "s5",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f16",
+      "targetNodeId": "s5-c",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f17",
+      "targetNodeId": "s5-quiz",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f18",
+      "targetNodeId": "summary",
+      "paddingRatio": 1.15,
+      "transitionMs": 900,
+      "easing": "ease-in-out"
+    }
+  ]
+}
