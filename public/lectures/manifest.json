@@ -1,3 +1,12 @@
 {
-  "lectures": []
+  "lectures": [
+    {
+      "title": "Every Christian Engages Culture",
+      "slug": "every-christian-engages-culture",
+      "description": "Why culture is a calling for every Christian, traced from creation through fall and redemption to our place today.",
+      "updatedAt": "2026-11-16T02:36:16Z",
+      "nodeCount": 50,
+      "course": "AP 562 — Cultural Apologetics"
+    }
+  ]
 }

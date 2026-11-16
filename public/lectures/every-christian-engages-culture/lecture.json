@@ -1,0 +1,1079 @@
+{
+  "version": "1.0",
+  "slug": "every-christian-engages-culture",
+  "title": "Every Christian Engages Culture",
+  "author": "",
+  "description": "Why culture is a calling for every Christian, traced from creation through fall and redemption to our place today.",
+  "course": "AP 562 — Cultural Apologetics",
+  "theme": {
+    "background": "#f1e2b8",
+    "foreground": "#2b2116",
+    "accent": "#9c3d1f",
+    "backgroundImage": "assets/cultural-map.svg",
+    "backgroundDepth": 0.0,
+    "backgroundDim": 0.0,
+    "backgroundRect": {
+      "x": -2400.0,
+      "y": -1350.0,
+      "width": 4800.0
+    },
+    "fonts": {
+      "heading": "playfair",
+      "body": "merriweather"
+    }
+  },
+  "nodes": [
+    {
+      "id": "timeline",
+      "type": "shape",
+      "x": -300.0,
+      "y": 0.0,
+      "width": 1450.0,
+      "scale": 1.0,
+      "rotation": 90.0,
+      "content": "",
+      "shapeData": {
+        "kind": "line",
+        "fill": "#f1e2b8",
+        "stroke": "#9c3d1f",
+        "strokeWidth": 5.0
+      }
+    },
+    {
+      "id": "title",
+      "type": "markdown",
+      "x": -188.98,
+      "y": -1855.82,
+      "width": 620.0,
+      "scale": 3.3,
+      "rotation": 0.0,
+      "content": "# Every Christian Engages Culture\n### Not a hobby for specialists, a calling for all of us\n*AP 562 · Cultural Apologetics*",
+      "textStyle": {
+        "size": 20.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "center"
+      }
+    },
+    {
+      "id": "hook-card",
+      "type": "shape",
+      "x": -1726.46,
+      "y": -1172.11,
+      "width": 520.0,
+      "scale": 1.25,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "hook",
+      "type": "markdown",
+      "x": -1718.89,
+      "y": -1168.34,
+      "width": 460.0,
+      "scale": 1.25,
+      "rotation": 0.0,
+      "content": "## Is culture just a hobby?\nLike the art-history elective you take now, because later you'll be too busy to care?",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s1-marker",
+      "type": "shape",
+      "x": -750.0,
+      "y": -650.0,
+      "width": 88.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "diamond",
+        "fill": "#9c3d1f",
+        "stroke": "#f7edcf",
+        "strokeWidth": 3.0
+      }
+    },
+    {
+      "id": "s1-stem",
+      "type": "shape",
+      "x": -585.0,
+      "y": -650.0,
+      "width": 480.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "line",
+        "fill": "#f1e2b8",
+        "stroke": "#b89b68",
+        "strokeWidth": 3.0
+      }
+    },
+    {
+      "id": "s1-card",
+      "type": "shape",
+      "x": -300.0,
+      "y": -650.0,
+      "width": 480.0,
+      "scale": 1.8,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#ead5a6",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s1",
+      "type": "markdown",
+      "x": -300.0,
+      "y": -650.0,
+      "width": 420.0,
+      "scale": 1.8,
+      "rotation": 0.0,
+      "content": "## I. Creation\n### Culture is a calling\n*Why should culture concern me at all?*",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s1-a-card",
+      "type": "shape",
+      "x": -2000.0,
+      "y": -650.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s1-a",
+      "type": "markdown",
+      "x": -2000.0,
+      "y": -650.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**THE CULTURAL MANDATE**\n### God made culture-making part of our job\n- Made in God's image (Gen 1:26–27)\n- \"Fill the earth and subdue it\" (Gen 1:28)\n- **Cultural mandate**: God's call to develop his world, repeated through redemptive history",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s1-b-card",
+      "type": "shape",
+      "x": -1440.0,
+      "y": -650.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s1-b",
+      "type": "markdown",
+      "x": -1440.0,
+      "y": -650.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**EVERY AREA OF LIFE**\n### Every Christian is a \"culture guy\"\nCultural apologetics isn't a fascination with music and the arts. It's defending and commending the faith in **every area of life**.",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s1-ex-card",
+      "type": "shape",
+      "x": -920.0,
+      "y": -650.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#9c3d1f",
+        "strokeWidth": 4.0
+      }
+    },
+    {
+      "id": "s1-ex",
+      "type": "markdown",
+      "x": -920.0,
+      "y": -650.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**EXERCISE**\n### Your week in culture\n1. List 5 things you did this week.\n2. Next to each, name the culture in it (work, food, screens, school, church…).\n3. Circle one your faith *should* shape.",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s2-marker",
+      "type": "shape",
+      "x": -750.0,
+      "y": 0.0,
+      "width": 88.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "diamond",
+        "fill": "#9c3d1f",
+        "stroke": "#f7edcf",
+        "strokeWidth": 3.0
+      }
+    },
+    {
+      "id": "s2-stem",
+      "type": "shape",
+      "x": 30.0,
+      "y": 0.0,
+      "width": 560.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "line",
+        "fill": "#f1e2b8",
+        "stroke": "#b89b68",
+        "strokeWidth": 3.0
+      }
+    },
+    {
+      "id": "s2-card",
+      "type": "shape",
+      "x": -300.0,
+      "y": 0.0,
+      "width": 480.0,
+      "scale": 1.8,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#ead5a6",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s2",
+      "type": "markdown",
+      "x": -300.0,
+      "y": 0.0,
+      "width": 420.0,
+      "scale": 1.8,
+      "rotation": 0.0,
+      "content": "## II. Fall\n### Our moment says \"I am\"\n*Why does culture press on us now?*",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s2-a-card",
+      "type": "shape",
+      "x": 400.0,
+      "y": 0.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s2-a",
+      "type": "markdown",
+      "x": 400.0,
+      "y": 0.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**WHY NOW**\n### Culture has forced itself upon us\n- Since COVID, a surge in homeschooling\n- Parents saw what was \"in the can\" didn't match the label\n- And reacted to new ideology on sex and gender (\"wokeism\") in schools",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s2-b-card",
+      "type": "shape",
+      "x": 960.0,
+      "y": 0.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s2-b",
+      "type": "markdown",
+      "x": 960.0,
+      "y": 0.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**THE PSYCHOLOGICAL SELF**\n### Our culture crowns self-expression as the highest good\nCarl Trueman: who I feel I am inside is who I really am, and everyone must affirm it.",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s2-c-card",
+      "type": "shape",
+      "x": 1520.0,
+      "y": 0.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s2-c",
+      "type": "markdown",
+      "x": 1520.0,
+      "y": 0.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**THE OLDEST SIN**\n### Autonomy is the heart of sin\n- **Autonomy** = *auto* (self) + *nomos* (law): being a law to yourself\n- Sin is lawlessness (1 John 3:4)\n- Only God says \"I am\" (Exod 3:14; Isa 45:5)",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s2-d",
+      "type": "markdown",
+      "x": 1520.0,
+      "y": 245.0,
+      "width": 420.0,
+      "scale": 0.45,
+      "rotation": 0.0,
+      "content": "### God names himself\n\"We don't name God; God names himself\" (Bavinck). Theology begins because God has spoken. We think his thoughts after him, in obedient repetition.",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s3-marker",
+      "type": "shape",
+      "x": -750.0,
+      "y": 650.0,
+      "width": 88.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "diamond",
+        "fill": "#9c3d1f",
+        "stroke": "#f7edcf",
+        "strokeWidth": 3.0
+      }
+    },
+    {
+      "id": "s3-stem",
+      "type": "shape",
+      "x": -585.0,
+      "y": 650.0,
+      "width": 480.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "line",
+        "fill": "#f1e2b8",
+        "stroke": "#b89b68",
+        "strokeWidth": 3.0
+      }
+    },
+    {
+      "id": "s3-card",
+      "type": "shape",
+      "x": -300.0,
+      "y": 650.0,
+      "width": 480.0,
+      "scale": 1.8,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#ead5a6",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s3",
+      "type": "markdown",
+      "x": -300.0,
+      "y": 650.0,
+      "width": 420.0,
+      "scale": 1.8,
+      "rotation": 0.0,
+      "content": "## III. Redemption\n### We can reject and receive\n*How should Christians respond?*",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s3-a-card",
+      "type": "shape",
+      "x": -2000.0,
+      "y": 650.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s3-a",
+      "type": "markdown",
+      "x": -2000.0,
+      "y": 650.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**A GOOD BUT PARTIAL ANSWER**\n### Going back to a better past isn't enough\n- Classical education and \"Judeo-Christian values\": much good, so cheer them on\n- But a heritage, not Scripture, governs it\n- So it can't critique the heritage itself",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s3-b-card",
+      "type": "shape",
+      "x": -1440.0,
+      "y": 650.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s3-b",
+      "type": "markdown",
+      "x": -1440.0,
+      "y": 650.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**TWO DOCTRINES TOGETHER**\n### Antithesis plus common grace: reject and receive\n- **Antithesis**: belief and unbelief stand opposed at the root\n- **Common grace**: God's good gifts even to unbelievers\n- Together, a critical edge **and** constructive appreciation",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s3-d",
+      "type": "markdown",
+      "x": -1440.0,
+      "y": 895.0,
+      "width": 420.0,
+      "scale": 0.45,
+      "rotation": 0.0,
+      "content": "### No one can hide from God\nGod's world, and even our own bodies and minds, keep speaking of him (Rom 1:19–20). Unbelief suppresses that truth but can never escape it.",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s3-ex-card",
+      "type": "shape",
+      "x": -920.0,
+      "y": 650.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#9c3d1f",
+        "strokeWidth": 4.0
+      }
+    },
+    {
+      "id": "s3-ex",
+      "type": "markdown",
+      "x": -920.0,
+      "y": 650.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**EXERCISE**\n### Plunder or poison?\nPick a current trend, slogan or ad.\n1. **Receive**: what true insight does it borrow from God's world?\n2. **Reject**: what root claim opposes God?",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s4-marker",
+      "type": "shape",
+      "x": 250.0,
+      "y": 650.0,
+      "width": 88.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "diamond",
+        "fill": "#9c3d1f",
+        "stroke": "#f7edcf",
+        "strokeWidth": 3.0
+      }
+    },
+    {
+      "id": "s4-stem",
+      "type": "shape",
+      "x": 250.0,
+      "y": 650.0,
+      "width": 900.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "arrow",
+        "fill": "#f1e2b8",
+        "stroke": "#6f7f4b",
+        "strokeWidth": 4.0
+      }
+    },
+    {
+      "id": "s4-card",
+      "type": "shape",
+      "x": 800.0,
+      "y": 650.0,
+      "width": 480.0,
+      "scale": 1.8,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#ead5a6",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s4",
+      "type": "markdown",
+      "x": 800.0,
+      "y": 650.0,
+      "width": 420.0,
+      "scale": 1.8,
+      "rotation": 0.0,
+      "content": "## IV. Our place\n### Engage your culture humbly\n*What spirit should drive us?*",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s4-a-card",
+      "type": "shape",
+      "x": 400.0,
+      "y": 1150.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s4-a",
+      "type": "markdown",
+      "x": 400.0,
+      "y": 1150.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**SELF-AWARENESS**\n### See your culture as a culture\n- Global contact makes cultural self-awareness essential\n- Your culture \"packages\" the questions you face\n- \"I am American (or Brazilian, Chinese…), but I am **first** a Christian\"",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s4-b-card",
+      "type": "shape",
+      "x": 960.0,
+      "y": 1150.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#b89b68",
+        "strokeWidth": 2.0
+      }
+    },
+    {
+      "id": "s4-b",
+      "type": "markdown",
+      "x": 960.0,
+      "y": 1150.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**A WARNING**\n### Hubris crouches at the door\n- Danger: \"studying culture makes me see further\"\n- \"Everything is just culture\" defeats itself: that claim is cultural too\n- We stand by **grace alone** (Eph 2:8–10)",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "s4-ex-card",
+      "type": "shape",
+      "x": 1520.0,
+      "y": 1150.0,
+      "width": 500.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#9c3d1f",
+        "strokeWidth": 4.0
+      }
+    },
+    {
+      "id": "s4-ex",
+      "type": "markdown",
+      "x": 1520.0,
+      "y": 1150.0,
+      "width": 440.0,
+      "scale": 1.0,
+      "rotation": 0.0,
+      "content": "**EXERCISE**\n### How does my culture package the question?\nName one question your culture presses on you that a Christian elsewhere might never face.",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "summary-card",
+      "type": "shape",
+      "x": 1700.0,
+      "y": -500.0,
+      "width": 560.0,
+      "scale": 1.5,
+      "rotation": 0.0,
+      "content": "",
+      "shapeData": {
+        "kind": "rectangle",
+        "fill": "#f7edcf",
+        "stroke": "#9c3d1f",
+        "strokeWidth": 4.0
+      }
+    },
+    {
+      "id": "summary",
+      "type": "markdown",
+      "x": 1700.0,
+      "y": -500.0,
+      "width": 500.0,
+      "scale": 1.5,
+      "rotation": 0.0,
+      "content": "## Not a hobby. A calling.\n1. **Why**: culture is God's mandate for every Christian\n2. **How**: antithesis + common grace, standing on Scripture\n3. **In what spirit**: humbly, by grace, for God's glory",
+      "textStyle": {
+        "size": 17.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "sources",
+      "type": "markdown",
+      "x": 1050.0,
+      "y": -1050.0,
+      "width": 600.0,
+      "scale": 0.65,
+      "rotation": 0.0,
+      "content": "## Sources\n- *The Holy Bible, English Standard Version*: Gen 1:26–28; 9:1–7; Exod 3:14; 12:35–36; 20:2–3; Isa 45:5; Matt 10:16; Rom 1:18–21; Eph 2:8–10; 1 Pet 3:15; 1 John 3:4.\n- Trueman, C. R. (2020). *The rise and triumph of the modern self*. Crossway.\n- Bavinck, H. (2004). *Reformed dogmatics: Vol. 2. God and creation* (J. Bolt, Ed.; J. Vriend, Trans.). Baker Academic.\n- Van Til, C. (1972). *Common grace and the gospel*. Presbyterian and Reformed.",
+      "textStyle": {
+        "size": 16.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    },
+    {
+      "id": "sources-2",
+      "type": "markdown",
+      "x": 1700.0,
+      "y": -1050.0,
+      "width": 600.0,
+      "scale": 0.65,
+      "rotation": 0.0,
+      "content": "## Sources (cont.)\n- Calvin, J. *Institutes of the Christian religion*, Book 1, ch. 5.\n- Machen, J. G. (1937, January 1). Telegram to John Murray.\n- AP 562 course recordings:\n  - [Lecture 1, Introduction to the Course](https://wts.instructure.com/courses/5339/modules/items/394833)\n  - [Lecture 2b, Our Times & the Need to Engage Culture](https://wts.instructure.com/courses/5339/modules/items/394835)",
+      "textStyle": {
+        "size": 16.0,
+        "weight": 400.0,
+        "color": "#2b2116",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.0,
+        "align": "left"
+      }
+    }
+  ],
+  "cameraPath": [
+    {
+      "id": "f1",
+      "targetNodeId": "title",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f2",
+      "targetNodeId": "hook",
+      "paddingRatio": 1.15,
+      "transitionMs": 1300,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f3",
+      "targetNodeId": "s1",
+      "paddingRatio": 1.15,
+      "transitionMs": 1200,
+      "easing": "ease-in-out",
+      "transition": "zoom"
+    },
+    {
+      "id": "f4",
+      "targetNodeId": "s1-a",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f5",
+      "targetNodeId": "s1-b",
+      "paddingRatio": 1.15,
+      "transitionMs": 800,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f6",
+      "targetNodeId": "s1-ex",
+      "paddingRatio": 1.15,
+      "transitionMs": 1300,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f7",
+      "targetNodeId": "@overview",
+      "paddingRatio": 1.15,
+      "transitionMs": 1300,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f8",
+      "targetNodeId": "s2",
+      "paddingRatio": 1.15,
+      "transitionMs": 1200,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f9",
+      "targetNodeId": "s2-a",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f10",
+      "targetNodeId": "s2-b",
+      "paddingRatio": 1.15,
+      "transitionMs": 800,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f11",
+      "targetNodeId": "s2-c",
+      "paddingRatio": 1.15,
+      "transitionMs": 800,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f12",
+      "targetNodeId": "s2-d",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f13",
+      "targetNodeId": "@overview",
+      "paddingRatio": 1.15,
+      "transitionMs": 1300,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f14",
+      "targetNodeId": "s3",
+      "paddingRatio": 1.15,
+      "transitionMs": 1200,
+      "easing": "ease-in-out",
+      "transition": "zoom"
+    },
+    {
+      "id": "f15",
+      "targetNodeId": "s3-a",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f16",
+      "targetNodeId": "s3-b",
+      "paddingRatio": 1.15,
+      "transitionMs": 800,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f17",
+      "targetNodeId": "s3-d",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f18",
+      "targetNodeId": "s3-ex",
+      "paddingRatio": 1.15,
+      "transitionMs": 1300,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f19",
+      "targetNodeId": "@overview",
+      "paddingRatio": 1.15,
+      "transitionMs": 1300,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f20",
+      "targetNodeId": "s4",
+      "paddingRatio": 1.15,
+      "transitionMs": 1200,
+      "easing": "ease-in-out",
+      "transition": "zoom"
+    },
+    {
+      "id": "f21",
+      "targetNodeId": "s4-a",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f22",
+      "targetNodeId": "s4-b",
+      "paddingRatio": 1.15,
+      "transitionMs": 800,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    },
+    {
+      "id": "f23",
+      "targetNodeId": "s4-ex",
+      "paddingRatio": 1.15,
+      "transitionMs": 1300,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f-recap",
+      "targetNodeId": "@overview",
+      "paddingRatio": 1.15,
+      "transitionMs": 1300,
+      "easing": "ease-in-out"
+    },
+    {
+      "id": "f24",
+      "targetNodeId": "summary",
+      "paddingRatio": 1.15,
+      "transitionMs": 1200,
+      "easing": "ease-in-out",
+      "transition": "zoom"
+    },
+    {
+      "id": "f25",
+      "targetNodeId": "sources",
+      "paddingRatio": 1.15,
+      "transitionMs": 1000,
+      "easing": "ease-in-out",
+      "transition": "fade"
+    },
+    {
+      "id": "f26",
+      "targetNodeId": "sources-2",
+      "paddingRatio": 1.15,
+      "transitionMs": 800,
+      "easing": "ease-in-out",
+      "transition": "pan"
+    }
+  ]
+}
